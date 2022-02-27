@@ -1,0 +1,391 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A citie-dog in a saints doublet: a missive to the sage common-councell-men of London, who now they can neither will nor chuse; are willing to have his Majestie to London. To the rebell city. Strumpet disloyall to thy Soveraigns throne, ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79819</idno>
+            <idno type="STC">Wing C4351</idno>
+            <idno type="STC">Thomason E453_24</idno>
+            <idno type="STC">ESTC R204951</idno>
+            <idno type="EEBO-CITATION">99864399</idno>
+            <idno type="PROQUEST">99864399</idno>
+            <idno type="VID">161993</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161993)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A citie-dog in a saints doublet: a missive to the sage common-councell-men of London, who now they can neither will nor chuse; are willing to have his Majestie to London. To the rebell city. Strumpet disloyall to thy Soveraigns throne, ...</title>
+               </titleStmt>
+               <extent>[2], 2, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Partly in verse.</note>
+                  <note>Only pages 1 and 2 are numbered.</note>
+                  <note>Annotation on Thomason copy: "July 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161993:1" rendition="simple:additions"/>
+            <p>A CITIE-DOG IN A Saints Doublet: A miſsive to the Sage Common-Coun<g ref="char:EOLhyphen"/>cell-men of London, who now they can neither will nor chuſe; are willing to have his Majeſtie to London.</p>
+            <p>To the Rebell City.</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Strumpet diſloyall to thy Soveraigns Throne,</hi>
+                  </l>
+                  <l>
+                     <hi>Famous for thy baſe proſtitution;</hi>
+                  </l>
+                  <l>
+                     <hi>Thou haſt not yet for thy vile looſneſſe ſmarted,</hi>
+                  </l>
+                  <l>
+                     <hi>But when the Bawdes at Weſtminſter are carted,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou ſhalt be whipt, whipt till thy ſhoulders bleed,</hi>
+                  </l>
+                  <l>
+                     <hi>Juſtice hath ſworne it, Fates have ſo decreed.</hi>
+                  </l>
+                  <l>
+                     <hi>Thou haſt theſe ſeven years (baſe ſlut) and more</hi>
+                  </l>
+                  <l>
+                     <hi>Been to each Iunto-man a common Whore;</hi>
+                  </l>
+                  <l>
+                     <hi>And now thou ſeeſt thy Paramours muſt fall,</hi>
+                  </l>
+                  <l>
+                     <hi>Their ſtrength and ſtock being vaded, paſt recall,</hi>
+                  </l>
+                  <l>
+                     <hi>Now to thy husband to whom thou wert wed,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou art in hope to be re-married;</hi>
+                  </l>
+                  <l>
+                     <hi>He in the Iſle of Wight though bolted in</hi>
+                  </l>
+                  <l>
+                     <hi>By revelation, knowes thy curſed ſin,</hi>
+                  </l>
+                  <l>
+                     <hi>And is reſolv'd nere more to bed with thee,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſo, though</hi> London was, <hi>yet</hi> York may bee.</l>
+               </lg>
+            </q>
+            <p>Printed in the Yeare. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161993:2"/>
+            <pb n="1" facs="tcp:161993:2"/>
+            <head>A City-Dog in a Saints Doublet.</head>
+            <p>WIth what Furies the Rebells were firſt inſpi<g ref="char:EOLhyphen"/>red, and with what madneſſe the Citizens of London were poſſeſſed, when they firſt mutu<g ref="char:EOLhyphen"/>ally covenanted to rebell againſt their moſt gracious King, is now obvious to all men, now that the vi<g ref="char:EOLhyphen"/>zor of their darke projections is pluckt off, and the deformi<g ref="char:EOLhyphen"/>ty of their intents pointed at by children; ſo that they can no longer deceive the Kingdome with ſhadowes, or feed them with painted meat, unleſſe they run the hazard, (I meane both Junto and City) the one party to be haled out by the eares, and carted to Tyburne with violence; and the other to have their throats eut, and their houſes fired about their eares, they are (temerity, and not loyalty, per<g ref="char:EOLhyphen"/>ſwading them thereto) contented, that their Babell be de<g ref="char:EOLhyphen"/>moliſhed, and the ſtones and timber thereof ſwept into the Sea, leaſt the children of <hi>Beliall</hi> that ſhould fucceed, ſhould imploy them a ſecond time to the defacing of Gods glori<g ref="char:EOLhyphen"/>ous Worſhip, the nulling of the fundamentall and knowne Lawes of the Land, the overthrow of Monarchicall Go<g ref="char:EOLhyphen"/>vernment, (the lively repreſentative of the Government a<g ref="char:EOLhyphen"/>mongſt the Angells) and to the murthering, impoveriſhing and ruining of a free, and if not incens'd by Factioniſts, of themſelves, a calme and quiet people, as by lamentable ex<g ref="char:EOLhyphen"/>perience hath been verified amongſt us of the Engliſh Na<g ref="char:EOLhyphen"/>tion for theſe ſeven yeares.</p>
+            <lg>
+               <l>For which thanks <hi>Iſaac Pennington</hi> to thee,</l>
+               <l>And the reſt of thy ſweet Fraternitie:</l>
+               <l>
+                  <hi>Pim</hi> broacht the But of Wormwood, <hi>Brooks</hi> drew out,</l>
+               <l>And drank a health to <hi>Cromwell</hi> and his Snout;</l>
+               <l>To <hi>Eſſex</hi> and his branchers grown ſo high,</l>
+               <l>They bore up <hi>Cynthia,</hi> as ſhe friskt i'th' skie:</l>
+               <l>To thee for ever nulling of the Lawes,</l>
+               <l>And to the happie thriving of the Cauſe,</l>
+               <l>To the confuſion of all Diſcipline,</l>
+               <pb n="2" facs="tcp:161993:3"/>
+               <l>All ancient Orders Morall and Divine.</l>
+               <l>To the freedome of the brothers, and their Trubs,</l>
+               <l>The metamorphoſing Pulpits into Tubs</l>
+               <l>For reverend <hi>Symkin,</hi> that reform'd Tranſlator,</l>
+               <l>The Siſters and the Goſpells propagater,</l>
+               <l>Who with the <hi>Toiler Wood-houſe,</hi> can with eaſe</l>
+               <l>Cut out a new Religion if he pleaſe,</l>
+               <l>To mount aloft, and there unto the Rabble</l>
+               <l>Pure non-ſenſe, blaſphemy, and treaſon babble:</l>
+               <l>For <hi>Wiggs</hi> the Vintner and his headman <hi>Fouch,</hi>
+               </l>
+               <l>Who each day can a new Religion broach;</l>
+               <l>For <hi>Tate</hi> the Druggiſt, as he will to vary,</l>
+               <l>And <hi>Wilkins</hi> the divine Apothecary.</l>
+               <l>For M. <hi>Edge</hi> the Haberdaſher Rock,</l>
+               <l>His journey-man to put on any block;</l>
+               <l>The Cutler <hi>Ask</hi> when <hi>Farrington</hi> is gone,</l>
+               <l>Can furbuſh o're a new Religion:</l>
+               <l>
+                  <hi>Needome</hi> the Dier, when he liſt to erre,</l>
+               <l>Can take Religion and new colour her;</l>
+               <l>So can <hi>Tomkins</hi> the Painter, but 'tis true,</l>
+               <l>His varniſh makes her ugly unto view:</l>
+               <l>
+                  <hi>Fowler</hi> the Draper too takes a great pleaſure,</l>
+               <l>Religion by his owne yard to meaſure;</l>
+               <l>So <hi>Finch</hi> the Mercer, but there's ſome do tell</l>
+               <l>The Scripture gives a yard, he takes an ell,</l>
+               <l>The Weaver <hi>Robinſon</hi> whoſe beard doth bloome,</l>
+               <l>Can caſt Religion upon any Loome.</l>
+               <l>
+                  <hi>Hoskins</hi> the Mariner while his braines doth rock</l>
+               <l>Can bring Religion into any Dock:</l>
+               <l>
+                  <hi>Carew</hi> the Barber, (not one like to him)</l>
+               <l>Can as he liſt Religion ſhave and trim.</l>
+               <l>The Gardner <hi>Elverton</hi> who's forc'd to hop</l>
+               <l>On wooden leggs, yet can Religion crop;</l>
+               <l>The Black-ſmith <hi>Day,</hi> moſt zealouſly doth urge,</l>
+               <l>And without fire can a Religion forge.</l>
+               <l>But to our matter, <hi>Brooks</hi> drank deep to all,</l>
+               <l>Who ſought Religion, King, and Kingdomes fall:</l>
+               <l>
+                  <hi>Penington</hi> pledg'd him, and ſo lik'd the the cup</l>
+               <pb facs="tcp:161993:3"/>
+               <l>Of deadly Aconite he quaft it up;</l>
+               <l>Draw out apace quoth <hi>Brookes,</hi> wee'l now begin</l>
+               <l>Our Mask ſince we have drawn the City in;</l>
+               <l>Quoth <hi>Atkins,</hi> now let's aime above our reaches,</l>
+               <l>And then the firſt time he beſhit his breeches:</l>
+               <l>
+                  <hi>Fairfax</hi> with fancies tickled, skip'd about,</l>
+               <l>For then he was not troubled with the Gout,</l>
+               <l>Though ſince the pockey humour ſeiz'd on him,</l>
+               <l>And now feeds on his bones in every limb.</l>
+               <l>The Fuckſter <hi>Martin</hi> tripping on his toe</l>
+               <l>Mongſt painted whores in his Seraglio,</l>
+               <l>When he heard of the thriving of the plot,</l>
+               <l>Cried now my Ducks wee'l have the tother pot,</l>
+               <l>And tother pleaſant skirmiſh on the bed,</l>
+               <l>Since now my hopes cannot be Cuckolded:</l>
+               <l>Then all the reverent Ganders of the City,</l>
+               <l>Incorporated with the State-Committee,</l>
+               <l>Moſt zealous cock-braind, ſottiſh, factious elves</l>
+               <l>Plotted the way how to undoe themſelves,</l>
+               <l>Which ſoon they did contrive, and now would faine</l>
+               <l>Have Diſcipline and Orders once againe:</l>
+               <l>And <hi>Warners</hi> Worſhip hath pluckt out the ſting,</l>
+               <l>And ſaith, he wiſheth, that there were a King.</l>
+            </lg>
+            <p>The clouds are diſpelled, that have ſo long hover'd betwixt truth and the peoples eys, and they perceive that the great Law-making Court is quite metamorphoſed to Polemicall Committees, and to a Councell of War, who ſeize on their lives and perſons at their pleaſures, &amp; who no ſooner hear that a man is rich, but he is made capable of death for his goods, who are ſo far from hearing, much leſſe redreſſing the grievances of the people, that one may go from one Tropick to the other, and croſſe the Equinoctiall twenty times ere a Petition tending to the peace of the Kingdome, can be taken into conſideration; had the rebellious Devills at Weſtminſter, &amp; the deluded Factioniſts of the City confined the fire of Reformation in the funnell of the chimney, &amp; appointed ſome to ſweep down the foot, there needed not have been that ſhooting up of Muskets, whereby the whole houſe is in danger of burning. I confeſſe the common people will ſtil be common people, they will ſomtime or other ſhew what they are, and vent their inſtable paſſions, &amp; I con<g ref="char:EOLhyphen"/>clude, that men wil be men while there is a world, &amp; as long as the
+<pb facs="tcp:161993:4"/>Moon hath an influxious power to make impreſſions upon their humors, they wil be ever greedy and covetous of novelties &amp; mu<g ref="char:EOLhyphen"/>tation, I alſo very wel know, that Kingdomes, States &amp; Cities &amp; all bodies politike are ſubject to convulſions, to Calentures and Conſumptions, as well as the fraile bodies of men, &amp; muſt have an evacuation for their corrupt humors, &amp; may perhaps be Phleboto<g ref="char:EOLhyphen"/>mized; but I would not have the embleme of innocence, the decent garment for the Miniſtery, called the Surplice, the unqueſtionable Book of Common-Prayer ſo perfectly agreeable unto the Word of God, and the ſame in effect which hath been for more then five hundred years in the Church of Chriſt, which hath been ſo hated by the ſeverall Popes, &amp; their Conclaves, &amp; have been ſo eſteemed of by the Martyrs, for inſtance, M. <hi>John Hallien</hi> fellow of Kings Col<g ref="char:EOLhyphen"/>ledge in Camebridge, who was Martyr'd in Q. <hi>Maries</hi> daies, <hi>Anno.</hi> 1557. &amp; being at the ſtake amongſt many other books that were throwne into the fire unto him, it hapned that the Common-Pray<g ref="char:EOLhyphen"/>er Book fell between his hands, which he joyfully receiving opened it and read till the ſmoke and flame ſuffered him not to read any more, &amp; then he fell to Prayers holding his hands up to heaven, and the book between his arms next his heart, thanking God for that mercy in ſending him it; I ſay, I would not have the Surplice ſo de<g ref="char:EOLhyphen"/>cent, the Common-Prayer Book ſo holy, &amp; the other indifferent Ce<g ref="char:EOLhyphen"/>remonies of the Church, be the occaſion of rebellious combuſtions, &amp; blood-ſhed, to beat Religion into mens brains with a Poleax, is to offer victims of humane blood an acceptable ſervice to <hi>Molech,</hi> but not to <hi>Meſſias:</hi> but as the excellent Tragedian Webſter makes <hi>Franciſco</hi> ſpeak in his white Devill
+<q>
+                  <l>Divinity wreſted by ſome factious blood,</l>
+                  <l>Drawes ſwords, ſwells battels, and deſtroyes all good.</l>
+               </q>
+            </p>
+            <p>Thus far permit me ſerious, now I ſhall come to my Cozens of the City a ſecond time, &amp; perhaps be too much ſportive, ye fools &amp; madmen who envied your own quiet, and like ſome of your light<g ref="char:EOLhyphen"/>heeld wives, when conceived of a — even longed for a mutation of your eſtates, you have been apt to rebell in all ages on all occa<g ref="char:EOLhyphen"/>ſions, but your fore-fathers never mutinied on ſo ſlender grounds, as you have done, tell me my fine Wittolls, was it not better to have the Government of the Church by Archbiſhops and Biſhops, then to have no Church at all? or at leaſt, managed by thoſe who know not how to write their names, preach printed Sermons, and who edifie none but your wives after bathings &amp; Sack-poſſits. Was
+<pb facs="tcp:161993:4"/>it not better to have a King to reign over you, whoſe clemency you had ſo ample experience of, who denied you no immunities re<g ref="char:EOLhyphen"/>quiſite for you to ask, &amp; convenient for him to grant, then to have a houſe full of Emperors, who ſit from morn till night, and ſtretch their inventions upon the tenters how to bridle and ſaddle you, &amp; not be kickt, &amp; to ſcrew money out of your purſes, &amp; not have you imagine they hoord it up for themſelves, who have made you theſe ſeven years their Sumpter-horſes to bear their coine, their ſtaires on which they have aſcended to the top of their hopes, (though now they have falne from top to bottome, ſo that their backs are broke) their Bawds, for it is well knowne that ſome of them have entred into your wives Cloſets, while you have been calling cuſtomers in<g ref="char:EOLhyphen"/>to your ſhops; are you there <hi>Mildmay?</hi> I meant not you Sir, for I know you hate lac'd mutton more then <hi>Martin</hi> doth a Curtezan, what need I tell you of M. <hi>Rogers</hi> his wife, ſince you ſo well know her already? my ſpruce Cits you muſt know, that <hi>Tom Fairfax</hi> hath the Gout, which will hinder his aſcent unto a throne, &amp; <hi>Nol Crom<g ref="char:EOLhyphen"/>well</hi> the iron Saint hath taken his progreſſe into the other world; <hi>Poyer</hi> hath given him his paſſe, ſo that if yours and the Juntoes cur<g ref="char:EOLhyphen"/>ſed plot to poiſon his Majeſty with a perfum'd ſuit of cloaths, or to mingle poiſon in his uſual beveridge, had taken its wiſhed effect, a hundred to one, but you had involved your ſelves in a new war about the Crowne, each thinking himſelf worthy to be a King.</p>
+            <lg>
+               <l>Warner <hi>Ile warrant you, Would think it vaine,</hi>
+               </l>
+               <l>
+                  <hi>To weild a Scepter, though he wear a chaine;</hi>
+               </l>
+               <l>
+                  <hi>And reverend</hi> Atkins <hi>ſure hath learnt mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e wit,</hi>
+               </l>
+               <l>
+                  <hi>For fear his royall garments he</hi>—.</l>
+               <l>
+                  <hi>Though</hi> Skippon <hi>ſtalk about with ſtately pace,</hi>
+               </l>
+               <l>
+                  <hi>Yet ſure the Muſhrump hath attain'd more grace</hi>
+               </l>
+               <l>
+                  <hi>Then for to wiſh a power over all,</hi>
+               </l>
+               <l>
+                  <hi>'Tis beſt still to be Major-Generall</hi>
+               </l>
+               <l>
+                  <hi>Of lice and fleas; to lead the boies about,</hi>
+               </l>
+               <l>
+                  <hi>And with his staffe of office, bang the rout.</hi>
+               </l>
+               <l>
+                  <hi>Or would you, have ſome Lord, whoſe worthy merit,</hi>
+               </l>
+               <l>
+                  <hi>Beſpeakes him fit Prince</hi> Charles <hi>to diſinherit,</hi>
+               </l>
+               <l>
+                  <hi>Las my Sord</hi> Say <hi>had rather ſtill diſpoſe</hi>
+               </l>
+               <l>
+                  <hi>Affaires, and lead the faction by the noſe,</hi>
+               </l>
+               <l>
+                  <hi>Till he hath ſhowne them Machavillian Play,</hi>
+               </l>
+               <l>
+                  <hi>And brought them to the whirlpool of decay,</hi>
+               </l>
+               <l>
+                  <hi>For</hi> Wharton, <hi>he would not be Soveraine,</hi>
+               </l>
+               <pb facs="tcp:161993:5"/>
+               <l>
+                  <hi>For feare he fall into a pit againe;</hi>
+               </l>
+               <l>
+                  <hi>Not like the Sawpit, into which he fell,</hi>
+               </l>
+               <l>
+                  <hi>But one as may Mount Aetna parallel,</hi>
+               </l>
+               <l>
+                  <hi>My Lord of Kent would ſure ſcorne the motion,</hi>
+               </l>
+               <l>
+                  <hi>Since to his guts he hath ſo much devotion</hi>
+               </l>
+               <l>
+                  <hi>That his great belly goes beyond its verge,</hi>
+               </l>
+               <l>
+                  <hi>And ſtruts more then the tun at Heildeberge.</hi>
+               </l>
+               <l>
+                  <hi>But would you have the man that rides the Moon,</hi>
+               </l>
+               <l>
+                  <hi>Or he that's nought but name great</hi> Algernoon,</l>
+               <l>
+                  <hi>Alas he dares not for his Ribbon cracks</hi>
+               </l>
+               <l>
+                  <hi>His George is broken and a—lacks,</hi>
+               </l>
+               <l>
+                  <hi>Nor will the Sea-gull</hi> Warwick <hi>be a King,</hi>
+               </l>
+               <l>
+                  <hi>Seeing the Seamen will have no ſuch thing;</hi>
+               </l>
+               <l>
+                  <hi>His Lordſhip hath no liſt to hunt for Crownes,</hi>
+               </l>
+               <l>
+                  <hi>Since his crowne 'ſcap'd a cracking on the Downes.</hi>
+               </l>
+               <l>
+                  <hi>For</hi> Denbigh <hi>he gapes when the plum will fall,</hi>
+               </l>
+               <l>
+                  <hi>When</hi> Fairfax <hi>dies he must be Generall,</hi>
+               </l>
+               <l>
+                  <hi>Although he wiſh the King were ſurely dead,</hi>
+               </l>
+               <l>
+                  <hi>The onely meane that can keep on his head.</hi>
+               </l>
+            </lg>
+            <p>To conclude, ye Serpentine Cuckolds of the Common-Councel, &amp; ye cuc<g ref="char:EOLhyphen"/>kolly Serpents of the City, now after all your Rebellions, Treaſons &amp; Impietie, after you have ſold your ſelves to do miſchief, abuſed God, King, Kingdome &amp; your ſelves, bought &amp; paid for your — Treacheries at the price of manie mil<g ref="char:EOLhyphen"/>lions, uſed all waies &amp; means to take away Kingly Government, to kill your King &amp; diſinherit his poſteritie, to ſet up a crew of Rebells and mechanicall Traytors in the manner of a State, who ſuck the heart bloods of the people, and eſteem it their chief glorie to be cruell, impious and irreligious, after you have permitted the blood-hounds at Weſtminſter, yea and backt them while they have murthe<g ref="char:EOLhyphen"/>red, Impriſoned and plundered all his Majeſties loyall Servants and friends, I ſay after all this now that you ſee your Dagon State muſt fall before the Ark of the Lord his Anointed one, our dread Soveraigne Lord King <hi>Charles,</hi> now you are contented (ſince you can neither will nor chuſe) that his Majeſty be ad<g ref="char:EOLhyphen"/>mitted to London with honour, freedome, and ſafetie. <hi>O</hi> you Dogs in Saints Doublets, now you are verie tender of his Majeſties Perſon, and are verie ſcru<g ref="char:EOLhyphen"/>pulous leaſt his Prerogative be abridged: Curſe upon you, do you imagine the Kings heart ſo flexible, that Iuſtice will permit him ere to look upon you with a gracious eye?</p>
+            <lg>
+               <l>No you curs'd Cuckolds know your Charters gone,</l>
+               <l>Quite forfeited for your Rebellion;</l>
+               <l>And you ſhall be the Subject of each pen,</l>
+               <l>Characterizing you baſeſt of men.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
